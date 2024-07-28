@@ -20,7 +20,7 @@ I am studying Backend development with Java and aspiring to become a professiona
   <ul>
     <li>
       <h3>Currently Learning</h3>
-      <img src="https://skillicons.dev/icons?i=java,spring,git,postgres,docker,linux,hibernate,gradle&perline=7" alt="Java, Spring, Git, Postgres, Docker, Linux, Hibernate, Gradle" />
+      <img src="https://skillicons.dev/icons?i=java,spring,git,postgres,docker,linux,hibernate,gradle&perline=6" alt="Java, Spring, Git, Postgres, Docker, Linux, Hibernate, Gradle" />
     </li>
     <li>
       <h3>Basic Knowledge</h3>
