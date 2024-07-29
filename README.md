@@ -15,24 +15,6 @@ I am studying Backend development with Java and aspiring to become a professiona
 - Specialty: Software Engineering
 - Study period: September 2022 - June 2026 (part-time education)
 
-<div>
-  <h2><b>My stack</b></h2>
-  <ul>
-    <li>
-      <h3>Currently Learning</h3>
-      <img src="https://skillicons.dev/icons?i=java,spring,git,postgres,docker,linux,hibernate,gradle&perline=6" alt="Java, Spring, Git, Postgres, Docker, Linux, Hibernate, Gradle" />
-    </li>
-    <li>
-      <h3>Basic Knowledge</h3>
-      <img src="https://skillicons.dev/icons?i=js,html,css&perline=7" alt="JavaScript, HTML, CSS" />
-    </li>
-    <li>
-      <h3>Software</h3>
-      <img src="https://skillicons.dev/icons?i=idea,vscode&perline=7" alt="IntelliJ IDEA, VSCode" />
-    </li>
-  </ul>
-</div>
-
 ## About Me
 
 I am actively studying and applying my knowledge in Backend development with Java. Through my participation in WorldSkills Russia and education at top technical institutions, I have gained valuable skills and experience that aid my growth in this professional field.
